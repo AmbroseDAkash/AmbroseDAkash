@@ -4,7 +4,7 @@
 <h3 align="center">A passionate and consistent Full Stack Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsingh0&label=Profile%20views&color=0e75b6&style=flat" alt="mrsingh0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmbroseDAkash&label=Profile%20views&color=0e75b6&style=flat" alt="Akash Deep" /> </p>
 
 - 🔭 I’m currently working on *Ecommerce Website*
 
