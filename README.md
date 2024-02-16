@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Deep</h1>
 <h3 align="center">A passionate and consistent Full Stack Web Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0xvlm3mUsHNvZd6YjoKwBb&ust=1708147841206000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOji8vGRr4QDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmbroseDAkash&label=Profile%20views&color=0e75b6&style=flat" alt="Akash Deep" /> </p>
 
